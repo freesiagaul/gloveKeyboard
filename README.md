@@ -21,4 +21,4 @@ I'll slowly be adding the boards, and prototyping boards I used, (and made - lik
 
 <div align=left><h2>Example Prototyping Board</h2>
   <img src="protoboardRev1Base/hand_dev_board.png" alt="Hand Dev Board">
-(This is for testing - the final result will be far smaller!)
+(This is for testing - the final revisions will be far smaller (I'm likely to change up the ESP!)
